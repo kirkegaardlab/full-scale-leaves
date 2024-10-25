@@ -1,0 +1,20 @@
+# Project
+-e .
+
+# External
+alphashape
+fsspec
+h5py
+jax==0.4.13
+--find-links https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
+jax[cuda12_pip] 
+mahotas
+matplotlib
+numba
+numpy
+pandas
+pyarrow
+scipy
+scikit-image
+tomli
+tqdm

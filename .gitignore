@@ -1,4 +1,6 @@
 __pycache__/
 env/
+my_package.egg-info/
 
 data/*
+
