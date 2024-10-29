@@ -3,4 +3,12 @@ env/
 my_package.egg-info/
 
 data/*
+!data/added/.gitkeep
+!data/extracted/.gitkeep
+!data/reduced/.gitkeep
+
+figures/*
+!figures/artificial/.gitkeep
+!figures/comparison/.gitkeep
+!figures/flows/.gitkeep
 

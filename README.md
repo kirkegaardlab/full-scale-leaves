@@ -5,6 +5,7 @@
 ## Table of Contents
 
 - [Setup](#setup)
+- [Usage](#usage)
 - [License](#license)
 
 ## Setup
